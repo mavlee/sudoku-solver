@@ -1,0 +1,8 @@
+This is a sudoku solver written back in the day, with an
+admittedly terrible user interface.  I don't know how I thought this would
+be usuable.
+
+However, the functionality does work.
+
+"Solve" tries to solve using some basic logical methods.
+"Brute Force Hax" does a recursive depth first search of the solution.
